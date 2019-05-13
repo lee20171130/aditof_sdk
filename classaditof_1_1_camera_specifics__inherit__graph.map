@@ -1,0 +1,5 @@
+<map id="aditof::CameraSpecifics" name="aditof::CameraSpecifics">
+<area shape="rect" id="node1" title="Base class for implementations with camera specific API." alt="" coords="147,5,321,32"/>
+<area shape="rect" id="node2" href="$classaditof_1_1_camera96_tof1_specifics.html" title="Implements the extened API that is specific for the 96 TOF1 camera." alt="" coords="5,80,220,107"/>
+<area shape="rect" id="node3" href="$classaditof_1_1_camera_chicony_specifics.html" title="Implements the extened API that is specific for the Chicony camera." alt="" coords="244,80,467,107"/>
+</map>

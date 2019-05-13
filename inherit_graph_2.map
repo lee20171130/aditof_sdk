@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classaditof_1_1_camera_specifics.html" title="Base class for implementations with camera specific API." alt="" coords="5,31,179,57"/>
+<area shape="rect" id="node2" href="$classaditof_1_1_camera96_tof1_specifics.html" title="Implements the extened API that is specific for the 96 TOF1 camera." alt="" coords="231,5,445,32"/>
+<area shape="rect" id="node3" href="$classaditof_1_1_camera_chicony_specifics.html" title="Implements the extened API that is specific for the Chicony camera." alt="" coords="227,56,449,83"/>
+</map>

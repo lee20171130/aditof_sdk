@@ -1,0 +1,4 @@
+<map id="aditof::CameraChiconySpecifics" name="aditof::CameraChiconySpecifics">
+<area shape="rect" id="node1" title="Implements the extened API that is specific for the Chicony camera." alt="" coords="5,80,228,107"/>
+<area shape="rect" id="node2" href="$classaditof_1_1_camera_specifics.html" title="Base class for implementations with camera specific API." alt="" coords="30,5,203,32"/>
+</map>
